@@ -1,0 +1,17 @@
+C:\Users\Lucas Santos\eclipse-workspace\lucas.santos\src\main\java\br\edu\infnet\lucas\santos\Application.java
+C:\Users\Lucas Santos\eclipse-workspace\lucas.santos\src\main\java\br\edu\infnet\lucas\santos\client\IEnderecoClient.java
+C:\Users\Lucas Santos\eclipse-workspace\lucas.santos\src\main\java\br\edu\infnet\lucas\santos\client\ILocalidadeClient.java
+C:\Users\Lucas Santos\eclipse-workspace\lucas.santos\src\main\java\br\edu\infnet\lucas\santos\controller\ClienteController.java
+C:\Users\Lucas Santos\eclipse-workspace\lucas.santos\src\main\java\br\edu\infnet\lucas\santos\Loader.java
+C:\Users\Lucas Santos\eclipse-workspace\lucas.santos\src\main\java\br\edu\infnet\lucas\santos\model\domain\Calcado.java
+C:\Users\Lucas Santos\eclipse-workspace\lucas.santos\src\main\java\br\edu\infnet\lucas\santos\model\domain\Casaco.java
+C:\Users\Lucas Santos\eclipse-workspace\lucas.santos\src\main\java\br\edu\infnet\lucas\santos\model\domain\Cliente.java
+C:\Users\Lucas Santos\eclipse-workspace\lucas.santos\src\main\java\br\edu\infnet\lucas\santos\model\domain\Endereco.java
+C:\Users\Lucas Santos\eclipse-workspace\lucas.santos\src\main\java\br\edu\infnet\lucas\santos\model\domain\Estado.java
+C:\Users\Lucas Santos\eclipse-workspace\lucas.santos\src\main\java\br\edu\infnet\lucas\santos\model\domain\Municipio.java
+C:\Users\Lucas Santos\eclipse-workspace\lucas.santos\src\main\java\br\edu\infnet\lucas\santos\model\domain\OrdemCompra.java
+C:\Users\Lucas Santos\eclipse-workspace\lucas.santos\src\main\java\br\edu\infnet\lucas\santos\model\domain\Produto.java
+C:\Users\Lucas Santos\eclipse-workspace\lucas.santos\src\main\java\br\edu\infnet\lucas\santos\model\repository\IClienteRepository.java
+C:\Users\Lucas Santos\eclipse-workspace\lucas.santos\src\main\java\br\edu\infnet\lucas\santos\model\service\ClienteService.java
+C:\Users\Lucas Santos\eclipse-workspace\lucas.santos\src\main\java\br\edu\infnet\lucas\santos\model\service\LocalizacaoService.java
+C:\Users\Lucas Santos\eclipse-workspace\lucas.santos\src\main\java\br\edu\infnet\lucas\santos\model\service\ProdutoService.java

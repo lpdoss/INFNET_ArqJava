@@ -1,0 +1,17 @@
+br\edu\infnet\lucas\santos\model\domain\Endereco.class
+br\edu\infnet\lucas\santos\model\domain\Calcado.class
+br\edu\infnet\lucas\santos\client\ILocalidadeClient.class
+br\edu\infnet\lucas\santos\model\domain\OrdemCompra.class
+br\edu\infnet\lucas\santos\Application.class
+br\edu\infnet\lucas\santos\Loader.class
+br\edu\infnet\lucas\santos\model\service\LocalizacaoService.class
+br\edu\infnet\lucas\santos\model\domain\Cliente.class
+br\edu\infnet\lucas\santos\model\domain\Casaco.class
+br\edu\infnet\lucas\santos\model\domain\Produto.class
+br\edu\infnet\lucas\santos\model\repository\IClienteRepository.class
+br\edu\infnet\lucas\santos\model\domain\Municipio.class
+br\edu\infnet\lucas\santos\controller\ClienteController.class
+br\edu\infnet\lucas\santos\model\domain\Estado.class
+br\edu\infnet\lucas\santos\client\IEnderecoClient.class
+br\edu\infnet\lucas\santos\model\service\ProdutoService.class
+br\edu\infnet\lucas\santos\model\service\ClienteService.class
