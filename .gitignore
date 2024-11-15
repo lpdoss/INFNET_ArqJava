@@ -29,37 +29,37 @@ replay_pid*
 /out-tsc
 
 # dependencies
-/node_modules
+/ui/my-app/node_modules
 
 # IDEs and editors
-/.idea
-.project
-.classpath
-.c9/
-*.launch
-.settings/
-*.sublime-workspace
+/ui/my-app/.idea
+/ui/my-app.project
+/ui/my-app.classpath
+/ui/my-app.c9/
+/ui/my-app*.launch
+/ui/my-app.settings/
+/ui/my-app*.sublime-workspace
 
 # IDE - VSCode
-.vscode/*
-!.vscode/settings.json
-!.vscode/tasks.json
-!.vscode/launch.json
-!.vscode/extensions.json
+/ui/my-app/.vscode/*
+/ui/my-app/!.vscode/settings.json
+/ui/my-app/!.vscode/tasks.json
+/ui/my-app/!.vscode/launch.json
+/ui/my-app/!.vscode/extensions.json
 
 # misc
-/.sass-cache
-/connect.lock
-/coverage
-/libpeerconnection.log
-npm-debug.log
-testem.log
-/typings
+/ui/my-app/.sass-cache
+/ui/my-app/connect.lock
+/ui/my-app/coverage
+/ui/my-app/libpeerconnection.log
+/ui/my-app/npm-debug.log
+/ui/my-app/testem.log
+/ui/my-app/typings
 
 # e2e
-/e2e/*.js
-/e2e/*.map
+/ui/my-app/e2e/*.js
+/ui/my-app/e2e/*.map
 
 # System Files
-.DS_Store
-Thumbs.db
+/ui/my-app.DS_Store
+/ui/my-appThumbs.db

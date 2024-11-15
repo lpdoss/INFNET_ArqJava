@@ -1,0 +1,34 @@
+<div class="row">
+    <h1>Login Page</h1>
+    <div class="card">
+        <div class="card-body">
+            <form #loginForm="ngForm">
+                <div class="mb-3">
+                    <label for="email" class="form-label">Email</label>
+                    <input 
+                        type="email" 
+                        class="form-control" 
+                        id="email" 
+                        required 
+                        [(ngModel)]="login.email" 
+                        name="email"
+                        #email="ngModel">
+                </div>
+                <div class="mb-3">
+                    <label for="password" class="form-label">Senha</label>
+                    <input 
+                        type="password" 
+                        class="form-control" 
+                        id="password" 
+                        required
+                        [(ngModel)]="login.password" 
+                        name="password"
+                        #password="ngModel">
+                </div>
+                <button type="link" class="btn btn-primary" [routerLink]="['/products']" [disabled]="!loginForm.form.valid" (click)="this.postLogin()">
+                    Logar
+                </button>
+            </form>
+        </div>
+    </div>
+</div>

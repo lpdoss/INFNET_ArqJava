@@ -1,0 +1,22 @@
+<div class="container col-6">
+  <nav class="mb-5 navbar navbar-expand-lg bg-body-tertiary" *ngIf="router.url !== '/login'">
+    <div class="container-fluid">
+      <div class="navbar-brand">Loja Artico</div>
+      <div class="collapse navbar-collapse" id="navbarScroll">
+        <ul class="navbar-nav me-auto my-2 my-lg-0 navbar-nav-scroll">
+          <li class="nav-item">
+            <a class="nav-link" [routerLink]="['/orders']" routerLinkActive="active">Pedidos</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" [routerLink]="['/products']" routerLinkActive="active">Produtos</a>
+          </li>
+        </ul>
+        <div class="d-flex">
+          <a class="nav-link" [routerLink]="['/login']">Sair</a>
+        </div>
+      </div>
+    </div>
+  </nav>
+
+  <router-outlet></router-outlet>
+</div>

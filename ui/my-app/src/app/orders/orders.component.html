@@ -1,0 +1,16 @@
+<div class="row">
+    <div class="mb-3" *ngFor="let order of orders">
+        <h1>Pedido: {{ order.data }}</h1>
+        <div class="row">
+            <div class="col-4 mb-3" *ngFor="let produto of order.produtos">
+                <div class="card">
+                    <img src="http://localhost:8080/produto/imagem/{{produto.imagem}}" class="card-img-top">
+                    <div class="card-body">
+                        <p class="card-text">{{ produto.descricao }}</p>
+                        <h5 class="card-title">R$ {{ produto.preco }}</h5>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
