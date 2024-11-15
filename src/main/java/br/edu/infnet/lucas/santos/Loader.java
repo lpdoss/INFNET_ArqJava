@@ -87,7 +87,7 @@ public class Loader implements ApplicationRunner {
 		calcado.setProvaDeAgua(Boolean.parseBoolean(splitRow[6]));
 		calcado.setTamanho(Integer.parseInt(splitRow[7]));
 		calcado.setTipo(splitRow[8]);
-		
+		calcado.setImagem(splitRow[9]);
 		calcadoService.incluir(calcado);
 		
 		System.out.println(calcado);
@@ -105,7 +105,7 @@ public class Loader implements ApplicationRunner {
 		casaco.setEstilo(splitRow[8]);
 		casaco.setFit(splitRow[9]);
 		casaco.setPreenchimento(splitRow[10]);
-		
+		casaco.setImagem(splitRow[11]);
 		casacoService.incluir(casaco);
 		
 		System.out.println(casaco);

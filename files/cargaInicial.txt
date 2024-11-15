@@ -10,45 +10,45 @@
 CL;Lucas Santos;123123123123;lsantos@clienteartico.com;24220090
 CL;Bruna Grassi;987987987987;bgrassi@clienteartico.com;24020112
 
-CA;1;Casaco Colecao Padrão;100;true;Unisex;true;P;Colete;Padrao;Sintetico
-CA;2;Casaco Colecao Padrão;100;true;Unisex;true;M;Colete;Padrao;Sintetico
-CA;3;Casaco Colecao Padrão;100;true;Unisex;true;L;Colete;Padrao;Sintetico
-CA;4;Casaco Colecao Padrão;100;true;Unisex;true;P;Jaqueta;Padrao;Sintetico
-CA;5;Casaco Colecao Padrão;100;false;Unisex;true;M;Jaqueta;Padrao;Sintetico
-CA;6;Casaco Colecao Padrão;100;true;Unisex;true;L;Jaqueta;Padrao;Sintetico
-CA;7;Casaco Colecao Padrão;100;true;Unisex;true;L;Jaqueta;PessoaAlta;Sintetico
-CA;8;Casaco Colecao Padrão;100;true;Unisex;true;P;Parka;Padrao;Sintetico
-CA;9;Casaco Colecao Padrão;100;true;Unisex;true;M;Parka;Padrao;Sintetico
-CA;10;Casaco Colecao Padrão;100;false;Unisex;true;L;Parka;Padrao;Sintetico
-CA;11;Casaco Colecao Premium;180;true;Unisex;true;P;Colete;Padrao;Penas
-CA;12;Casaco Colecao Premium;180;true;Unisex;true;M;Colete;Padrao;Penas
-CA;13;Casaco Colecao Premium;180;true;Unisex;true;L;Colete;Padrao;Penas
-CA;14;Casaco Colecao Premium;180;false;Unisex;true;P;Jaqueta;Padrao;Penas
-CA;15;Casaco Colecao Premium;180;true;Unisex;true;M;Jaqueta;PessoaAlta;Penas
-CA;16;Casaco Colecao Premium;180;true;Unisex;true;L;Jaqueta;Padrao;Penas
-CA;17;Casaco Colecao Premium;180;true;Unisex;true;P;Parka;Padrao;Penas
-CA;18;Casaco Colecao Premium;180;false;Unisex;true;M;Parka;Padrao;Penas
-CA;19;Casaco Colecao Premium;180;true;Unisex;true;L;Parka;Padrao;Penas
+CA;1;Casaco Colecao Padrão;100;true;Unisex;true;P;Colete;Padrao;Sintetico;colete1.jpg
+CA;2;Casaco Colecao Padrão;100;true;Unisex;true;M;Colete;Padrao;Sintetico;colete1.jpg
+CA;3;Casaco Colecao Padrão;100;true;Unisex;true;L;Colete;Padrao;Sintetico;colete2.jpg
+CA;4;Casaco Colecao Padrão;100;true;Unisex;true;P;Jaqueta;Padrao;Sintetico;jaqueta1.jpg
+CA;5;Casaco Colecao Padrão;100;false;Unisex;true;M;Jaqueta;Padrao;Sintetico;jaqueta2.jpg
+CA;6;Casaco Colecao Padrão;100;true;Unisex;true;L;Jaqueta;Padrao;Sintetico;jaqueta1.jpg
+CA;7;Casaco Colecao Padrão;100;true;Unisex;true;L;Jaqueta;PessoaAlta;Sintetico;jaqueta2.jpg
+CA;8;Casaco Colecao Padrão;100;true;Unisex;true;P;Parka;Padrao;Sintetico;parka1.jpg
+CA;9;Casaco Colecao Padrão;100;true;Unisex;true;M;Parka;Padrao;Sintetico;parka2.jpg
+CA;10;Casaco Colecao Padrão;100;false;Unisex;true;L;Parka;Padrao;Sintetico;parka1.jpg
+CA;11;Casaco Colecao Premium;180;true;Unisex;true;P;Colete;Padrao;Penas;coletePremium.jpg
+CA;12;Casaco Colecao Premium;180;true;Unisex;true;M;Colete;Padrao;Penas;coletePremium.jpg
+CA;13;Casaco Colecao Premium;180;true;Unisex;true;L;Colete;Padrao;Penas;coletePremium.jpg
+CA;14;Casaco Colecao Premium;180;false;Unisex;true;P;Jaqueta;Padrao;Penas;jaquetaPremium.jpg
+CA;15;Casaco Colecao Premium;180;true;Unisex;true;M;Jaqueta;PessoaAlta;Penas;jaquetaPremium.jpg
+CA;16;Casaco Colecao Premium;180;true;Unisex;true;L;Jaqueta;Padrao;Penas;jaquetaPremium.jpg
+CA;17;Casaco Colecao Premium;180;true;Unisex;true;P;Parka;Padrao;Penas;parkaPremium.jpg
+CA;18;Casaco Colecao Premium;180;false;Unisex;true;M;Parka;Padrao;Penas;parkaPremium.jpg
+CA;19;Casaco Colecao Premium;180;true;Unisex;true;L;Parka;Padrao;Penas;parkaPremium.jpg
 
 
-CD;21;Bota para frio;120;true;Masculino;true;40;Bota
-CD;22;Bota para frio;120;true;Masculino;true;43;Bota
-CD;23;Bota para frio;120;true;Masculino;true;44;Bota
-CD;24;Bota para frio;120;false;Masculino;true;46;Bota
-CD;25;Bota para frio;120;false;Feminino;true;34;Bota
-CD;26;Bota para frio;120;true;Feminino;true;36;Bota
-CD;27;Bota para frio;120;true;Feminino;true;38;Bota
-CD;28;Bota para frio intenso;160;false;Masculino;true;40;BotaInverno
-CD;29;Bota para frio intenso;160;true;Masculino;true;43;BotaInverno
-CD;30;Bota para frio intenso;160;true;Masculino;true;44;BotaInverno
-CD;31;Bota para frio intenso;160;true;Feminino;true;34;BotaInverno
-CD;32;Bota para frio intenso;160;true;Feminino;true;36;BotaInverno
-CD;33;Bota para frio intenso;160;true;Feminino;true;38;BotaInverno
-CD;34;Acompanha nas suas trilhas;90;true;Unisex;false;34;Tenis
-CD;35;Acompanha nas suas trilhas;90;false;Unisex;false;36;Tenis
-CD;36;Acompanha nas suas trilhas;90;false;Unisex;false;38;Tenis
-CD;37;Acompanha nas suas trilhas;90;true;Unisex;false;40;Tenis
-CD;38;Acompanha nas suas trilhas;90;true;Unisex;false;44;Tenis
+CD;21;Bota para frio;120;true;Masculino;true;40;Bota;bota1.jpg
+CD;22;Bota para frio;120;true;Masculino;true;43;Bota;bota1.jpg
+CD;23;Bota para frio;120;true;Masculino;true;44;Bota;bota1.jpg
+CD;24;Bota para frio;120;false;Masculino;true;46;Bota;bota1.jpg
+CD;25;Bota para frio;120;false;Feminino;true;34;Bota;bota2.jpg
+CD;26;Bota para frio;120;true;Feminino;true;36;Bota;bota2.jpg
+CD;27;Bota para frio;120;true;Feminino;true;38;Bota;bota2.jpg
+CD;28;Bota para frio intenso;160;false;Masculino;true;40;BotaInverno;botaInverno2.jpg
+CD;29;Bota para frio intenso;160;true;Masculino;true;43;BotaInverno;botaInverno2.jpg
+CD;30;Bota para frio intenso;160;true;Masculino;true;44;BotaInverno;botaInverno2.jpg
+CD;31;Bota para frio intenso;160;true;Feminino;true;34;BotaInverno;botaInverno1.jpg
+CD;32;Bota para frio intenso;160;true;Feminino;true;36;BotaInverno;botaInverno1.jpg
+CD;33;Bota para frio intenso;160;true;Feminino;true;38;BotaInverno;botaInverno1.jpg
+CD;34;Acompanha nas suas trilhas;90;true;Unisex;false;34;Tenis;tenis1.jpg
+CD;35;Acompanha nas suas trilhas;90;false;Unisex;false;36;Tenis;tenis1.jpg
+CD;36;Acompanha nas suas trilhas;90;false;Unisex;false;38;Tenis;tenis1.jpg
+CD;37;Acompanha nas suas trilhas;90;true;Unisex;false;40;Tenis;tenis2.jpg
+CD;38;Acompanha nas suas trilhas;90;true;Unisex;false;44;Tenis;tenis2.jpg
 
 OC;2024-10-18;lsantos@clienteartico.com;9,23
 OC;2024-11-03;lsantos@clienteartico.com;19

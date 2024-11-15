@@ -21,7 +21,7 @@ public abstract class Produto {
 	@NotNull(message = "Indicação de a prova d'agua é obrigatória.")
 	private boolean provaDeAgua;
 	
-	
+	private String imagem;
 	
 	public int getCodigo() {
 		return codigo;
@@ -58,5 +58,11 @@ public abstract class Produto {
 	}
 	public void setProvaDeAgua(boolean provaDeAgua) {
 		this.provaDeAgua = provaDeAgua;
+	}
+	public String getImagem() {
+		return imagem;
+	}
+	public void setImagem(String imagem) {
+		this.imagem = imagem;
 	}
 }
