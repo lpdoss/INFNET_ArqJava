@@ -11,6 +11,7 @@ Para rodar o java:
 Para rodar o angular:
 
 1 - Navegar para pasta "my-app"
+
 2 - Rodar: npm start
 
 
